@@ -24,17 +24,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0105_000.yaml, hash: 'sha256:0d534267194653bcb0e832faacba2f4d4f021dc7736618e9ca7e3bdf68da08a8'}
+  - {seq: 0, filename: KR6e0105_000.yaml, hash: 'sha256:4581ad573a7272dcf4411eb98be7957e71c59d6c4bccaf3819474e312d2cfb64'}
   - {seq: 1, filename: KR6e0105_001.yaml, hash: 'sha256:b15e808f9475d39b2345c09588dc224d6f4715cc83f5344142793fb1cf39714e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0105_000.markers.yaml, hash: 'sha256:57dec3c85c51180e00d727a4d84fddb370e70a72a2818230177523ac3ac0bd87'}
+  - {seq: 0, role: markers, filename: assets/KR6e0105_000.markers.yaml, hash: 'sha256:877eb61caf370341e783c60ce625e04b63156174595fdfee49bf52f813c9e2ea'}
   - {seq: 1, role: markers, filename: assets/KR6e0105_001.markers.yaml, hash: 'sha256:e1885594f10531f70f149b6821e7e7bd7c8ad6b027db8dbd7d9a00cd7623c82d'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6e0105_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 原人論序
@@ -90,7 +90,7 @@ table_of_contents:
   label: 4 會通本末
   type: mulu
   level: 1
-hash: sha256:834c574af195b40879e901a891a6d42a14b049a4233c1abd0fed2b748017e4ec
+hash: sha256:83161ebefe181a9f28af3ae01f0b3a3d286c190bc3397a656373b6d4f6497409
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

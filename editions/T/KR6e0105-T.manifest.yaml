@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0105_000-T.yaml, hash: 'sha256:bad642e8a905cb2e4e59214ca61fb46374ae80f73302b001f74cbe28c24bd2ce'}
+  - {seq: 0, filename: KR6e0105_000-T.yaml, hash: 'sha256:221a76fed89f1ac1dab7fc69d53007584826a5d8ae5a7abee250093007b4779a'}
   - {seq: 1, filename: KR6e0105_001-T.yaml, hash: 'sha256:b327d2f7d6c14d2df1ff01e0cf318229761eec91f1a5490cc7b95f570e5d2892'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0105_000-T.markers.yaml, hash: 'sha256:8d4981009f60ee640a46329659b665084471efaf07a43e35a15f3964acec6e4c'}
+  - {seq: 0, role: markers, filename: assets/KR6e0105_000-T.markers.yaml, hash: 'sha256:d6cb79de348132c215693563e6189949778da255d95b44941cc3a6dc9fb7f229'}
   - {seq: 1, role: markers, filename: assets/KR6e0105_001-T.markers.yaml, hash: 'sha256:f549e43992b567bc08e6e73afe0978dcfb3c58592580bce857b70b6710dcb572'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6e0105_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 原人論序
@@ -85,4 +85,4 @@ table_of_contents:
   label: 4 會通本末
   type: mulu
   level: 1
-hash: sha256:a40a047f96bc3bfe3f72f4876547b9a1d4acb11be45c0403e29af4c637b26a79
+hash: sha256:e1cda8c1570087039f01babc3af64b624c7d101a0f1d12eb94ac85198db35d79
